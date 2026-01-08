@@ -1,0 +1,966 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.101.3",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "2Q5IsQ2Y5GfB",
+			"notePath": [
+				"2Q5IsQ2Y5GfB"
+			],
+			"title": "King's College London",
+			"notePosition": 40,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "book",
+			"mime": "",
+			"attributes": [
+				{
+					"type": "label",
+					"name": "iconClass",
+					"value": "bx bx-book",
+					"isInheritable": false,
+					"position": 10
+				},
+				{
+					"type": "label",
+					"name": "viewType",
+					"value": "table",
+					"isInheritable": false,
+					"position": 20
+				}
+			],
+			"dataFileName": "King's College London.html",
+			"attachments": [
+				{
+					"attachmentId": "tTwLh77GsD3q",
+					"title": "table.json",
+					"role": "viewConfig",
+					"mime": "application/json",
+					"position": 10,
+					"dataFileName": "King's College London_tab.json.html"
+				}
+			],
+			"dirFileName": "King's College London",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "469TXBn2hIFL",
+					"notePath": [
+						"2Q5IsQ2Y5GfB",
+						"469TXBn2hIFL"
+					],
+					"title": "7CCEMEMB Embedded System Design",
+					"notePosition": 10,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "7CCEMEMB Embedded System Desig.html",
+					"attachments": [],
+					"dirFileName": "7CCEMEMB Embedded System Design",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "ngt1KsPq5da9",
+							"notePath": [
+								"2Q5IsQ2Y5GfB",
+								"469TXBn2hIFL",
+								"ngt1KsPq5da9"
+							],
+							"title": "笔记",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/markdown",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "iconClass",
+									"value": "bx bx-note",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
+							"format": "html",
+							"dataFileName": "笔记.html",
+							"attachments": [
+								{
+									"attachmentId": "10oxaXD2Eq1B",
+									"title": "image_20251227_172233.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image_20251227_172233.png"
+								},
+								{
+									"attachmentId": "7O4Cl0NJ3NLU",
+									"title": "image_20251226_211353.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image_20251226_211353.png"
+								},
+								{
+									"attachmentId": "BHmj5xnhG9wJ",
+									"title": "image.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image.png"
+								},
+								{
+									"attachmentId": "Cr8V1UvRUbKq",
+									"title": "image_20251227_161849.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image_20251227_161849.png"
+								},
+								{
+									"attachmentId": "LWxqmJEQpRue",
+									"title": "image_20251227_172442.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image_20251227_172442.png"
+								},
+								{
+									"attachmentId": "mAV7ifpoihdS",
+									"title": "image_20251227_170248.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image_20251227_170248.png"
+								},
+								{
+									"attachmentId": "O0GTqeZm0pLF",
+									"title": "image_20251227_171633.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image_20251227_171633.png"
+								},
+								{
+									"attachmentId": "QuyAQr5VFrR9",
+									"title": "image_20251228_191925.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image_20251228_191925.png"
+								},
+								{
+									"attachmentId": "sCl9wT0MpWkQ",
+									"title": "image_20251228_192008.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image_20251228_192008.png"
+								},
+								{
+									"attachmentId": "t5n9xfgH1cvr",
+									"title": "image_20251226_212032.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image_20251226_212032.png"
+								},
+								{
+									"attachmentId": "ZwSlAgIoOm4k",
+									"title": "image-1.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image-1.png"
+								}
+							]
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "tqmtwvO8ARo8",
+					"notePath": [
+						"2Q5IsQ2Y5GfB",
+						"tqmtwvO8ARo8"
+					],
+					"title": "7CCEMTN1 Telecommunications Networks I",
+					"notePosition": 20,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "iconClass",
+							"value": "bx bx-folder",
+							"isInheritable": false,
+							"position": 10
+						}
+					],
+					"format": "html",
+					"dataFileName": "7CCEMTN1 Telecommunications Ne.html",
+					"attachments": [],
+					"dirFileName": "7CCEMTN1 Telecommunications Networks I",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "obykK42TcQY1",
+							"notePath": [
+								"2Q5IsQ2Y5GfB",
+								"tqmtwvO8ARo8",
+								"obykK42TcQY1"
+							],
+							"title": "笔记",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "笔记.html",
+							"attachments": [
+								{
+									"attachmentId": "1PhJjWKBEiZk",
+									"title": "image_20260102_151312.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image_20260102_151312.png"
+								},
+								{
+									"attachmentId": "ePQKyJM27UuT",
+									"title": "image_20260103_153122.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image_20260103_153122.png"
+								},
+								{
+									"attachmentId": "h2DXcMTsOQdS",
+									"title": "image_20260102_220052.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image_20260102_220052.png"
+								},
+								{
+									"attachmentId": "M6TbuZaThiEy",
+									"title": "image_20260102_220115.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image_20260102_220115.png"
+								},
+								{
+									"attachmentId": "wVQubtGzK1p8",
+									"title": "image_20260102_222409.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image_20260102_222409.png"
+								},
+								{
+									"attachmentId": "YOuPitESixoE",
+									"title": "image_20260102_195722.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "笔记_image_20260102_195722.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "LqeqLP28FaJI",
+							"notePath": [
+								"2Q5IsQ2Y5GfB",
+								"tqmtwvO8ARo8",
+								"LqeqLP28FaJI"
+							],
+							"title": "2025 Mock Paper",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "2025 Mock Paper.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "QtXyHR0RvLIY",
+							"notePath": [
+								"2Q5IsQ2Y5GfB",
+								"tqmtwvO8ARo8",
+								"QtXyHR0RvLIY"
+							],
+							"title": "Example questions",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Example questions.html",
+							"attachments": [
+								{
+									"attachmentId": "7KKKVZjv5Zbv",
+									"title": "image_20260105_194225.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "Example questions_image_20.png"
+								},
+								{
+									"attachmentId": "Avpqe61enaQf",
+									"title": "image_20260105_171103.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "1_Example questions_image_20.png"
+								},
+								{
+									"attachmentId": "E30DW30ObGyz",
+									"title": "image_20260105_194208.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "2_Example questions_image_20.png"
+								},
+								{
+									"attachmentId": "SG9Lvd1ACbVO",
+									"title": "image_20260106_141230.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "3_Example questions_image_20.png"
+								},
+								{
+									"attachmentId": "wjj9rIxK6snP",
+									"title": "image_20260105_171117.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "4_Example questions_image_20.png"
+								},
+								{
+									"attachmentId": "y0burWo8Hl79",
+									"title": "image_20260106_140956.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "5_Example questions_image_20.png"
+								},
+								{
+									"attachmentId": "ZKweeemeoNHb",
+									"title": "image_20260106_141152.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "6_Example questions_image_20.png"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"noImport": true,
+			"dataFileName": "icon-color.svg"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_AMS-Regular-CYEKBG2K.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_AMS-Regular-JKX5W2C4.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_AMS-Regular-U6PRYMIZ.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Bold-5QL5CMTE.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Bold-WZ3QSGD3.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Bold-ZTS3R3HK.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Regular-3LKEU76G.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Regular-A7XRTZ5Q.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Regular-KX5MEWCF.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Bold-2QVFK6NQ.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Bold-T4SWXBMT.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Bold-WGHVTYOR.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Regular-2PEIFJSJ.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Regular-5U4OPH2X.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Regular-PQMHCIK6.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Bold-2GA4IZIN.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Bold-W5FBVCZM.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Bold-YP5VVQRP.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-BoldItalic-4P4C7HJH.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-BoldItalic-N4V3DX7S.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-BoldItalic-ODMLBJJQ.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Italic-I43T2HSR.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Italic-RELBIK7M.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Italic-SASNQFN2.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Regular-ARRPAO67.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Regular-P5I74A2A.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Regular-W74P5G27.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-BoldItalic-6EBV3DK5.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-BoldItalic-K4WTGH3J.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-BoldItalic-VB447A4D.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-Italic-6KGCHLFN.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-Italic-KKK3USB2.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-Italic-SON4MRCA.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Bold-RRNVJFFW.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Bold-STQ6RXC7.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Bold-X5M5EMOD.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Italic-HMPFTM52.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Italic-PSN4QKYX.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Italic-WTBAZBGY.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Regular-2TL3USAE.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Regular-OQCII6EP.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Regular-XIQ62X4E.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Script-Regular-72OLXYNA.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Script-Regular-A5IFOEBS.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Script-Regular-APUWIHLP.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size1-Regular-4HRHTS65.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size1-Regular-5LRUTBFT.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size1-Regular-7K6AASVL.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size2-Regular-222HN3GT.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size2-Regular-K5ZHAIS6.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size2-Regular-LELKET5D.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size3-Regular-TLFPAHDE.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size3-Regular-UFCO6WCA.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size3-Regular-WQRQ47UD.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size4-Regular-7PGNVPQK.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size4-Regular-CDMV7U5C.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size4-Regular-PKMWZHNC.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Typewriter-Regular-3F5K6SQ6.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Typewriter-Regular-MJMFSK64.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Typewriter-Regular-VBYJ4NRC.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/architecture-U656AL7Q-UMXUWOJN.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/architectureDiagram-VXUJARFQ-FM7I2Z5O.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/auto-render-UXC7LJGS.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/blockDiagram-VD42YOAC-V2QJYPKM.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/boxicons-5JNJQPUP.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/boxicons-AQ5N6WP7.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/boxicons-GDR4JU3X.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/c4Diagram-YG6GDRKO-CMW3OTI2.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-2DQTVN24.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-2P3A4VVY.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-3NQVBMJW.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-3X24VTB7.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-4NASS3RI.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-4WBBZUSR.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-53UH5AR7.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-6DZ5R3NJ.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-6SIZP672.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-6TNVQ2K2.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-7FSJEZ5E.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-7IK5N4XB.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-AC74IHDH.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-ALQLWK4Q.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-E7NHVONA.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-ERXSOLO3.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-F2OBZR3M.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-FWQMFT44.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-H5PYWCUD.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-HQSYOEDJ.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-IK2YVULW.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-K6AV3VJK.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-KW3I2AV5.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-MMHSHVGT.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-N5HEOC6V.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-NHL2GWMF.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-OBZA3MUO.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-OIESMJRM.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-PFXQX2Y7.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-RQP5TY6Y.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-RYAOJSZU.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-T5M7D74I.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-T6N5NIZF.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-TT2UZHBJ.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-UMRDKDF4.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-WINAANFJ.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-YLIWSRYE.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-Z67AEQ2D.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-ZFYBQKZZ.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-ZVQIEZRD.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/classDiagram-2ON5EDUG-TIP4LGG2.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/classDiagram-v2-WZHVMYZB-3G7CSM5W.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/cose-bilkent-S5V4N54A-472J47NV.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/dagre-6UL2VRFP-IRBZLM3O.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/diagram-PSM6KHXK-COY2CYF7.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/diagram-QEK2KX5R-4M6IQQIE.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/diagram-S2PKOQOG-FJKQ3ERC.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/erDiagram-Q2GNP2WA-HHKNDTJC.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/flowDiagram-NV44I4VS-X6HOUMQC.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/fuse-ZEXUGBUY.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/ganttDiagram-JELNMOA3-4YBZDITA.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/gitGraph-F6HP7TQM-HLWFOJFB.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/gitGraphDiagram-NY62KEGX-O6GAPXZS.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/info-NVLQJR56-GDSGBQLH.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/infoDiagram-WHAUD3N6-KHWYCAJI.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/journeyDiagram-XKPGCS4Q-BOQ6OSNI.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/kanban-definition-3W4ZIXB7-RM2ODRNT.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/katex-PM6TCG4A.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/mermaid.core-TRORSKKS.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/mhchem-DNUT7O3K.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/mindmap-definition-VGOIOE7T-ZIDIUUWG.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/packet-BFZMPI3H-LHFCH3XT.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/pie-7BOR55EZ-KOZCQATS.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/pieDiagram-ADFJNKIX-IH4WMDLG.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/quadrantDiagram-AYHSOK5B-KYYXE2FP.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/radar-NHE76QYJ-TW2375CX.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/requirementDiagram-UZGBJVZJ-4NQU7X27.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/sankeyDiagram-TZEHDZUN-SKVQ3CCR.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/scripts.css"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/scripts.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/sequenceDiagram-WL72ISMW-2SNCXAGY.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/stateDiagram-FKZM4ZOC-IOLMZ62C.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/stateDiagram-v2-4FDKWEC3-FIUO4FNY.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/styles.css"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/timeline-definition-IT6M3QCI-532IM2YA.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/treemap-KMMF4GRG-5Z6HN2V3.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/xychartDiagram-PRI3JC2R-JG4L5VB3.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "index.html"
+		}
+	]
+}
